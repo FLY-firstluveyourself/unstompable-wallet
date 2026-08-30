@@ -1,0 +1,21 @@
+{
+    "editor.lineHeight": 1,
+    "editor.autoClosingComments": "never",
+    "editor.autoClosingDelete": "never",
+    "editor.autoClosingOvertype": "always",
+    "editor.autoClosingQuotes": "always",
+    "editor.autoIndent": "advanced",
+    "editor.autoIndentOnPaste": true,
+    "chat.copilot.semanticSearch.enabled": true,
+    "chat.agentHost.sdkSandbox.enabledWindows": "on",
+    "chat.agentHost.sdkSandbox.enabled": "on",
+    "chat.agentHost.opus48Prompt.enabled": true,
+    "chat.agentHost.customTerminalTool.enabled": true,
+    "chat.copilot.subagentModelGuidance.enabled": true,
+    "chat.agentHost.copilot.reasoningSummary.enabled": true,
+    "chat.agentHost.ahpJsonlLoggingEnabled": true,
+    "chat.agentHost.agentDebugLog.enabled": true,
+    "chat.agentHost.codexAgent.enabled": true,
+    "terminal.integrated.enableWin32InputMode": true,
+    "terminal.integrated.developer.devMode": true
+}
