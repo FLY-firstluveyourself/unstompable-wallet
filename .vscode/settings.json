@@ -17,5 +17,8 @@
     "chat.agentHost.agentDebugLog.enabled": true,
     "chat.agentHost.codexAgent.enabled": true,
     "terminal.integrated.enableWin32InputMode": true,
-    "terminal.integrated.developer.devMode": true
+    "terminal.integrated.developer.devMode": true,
+    "files.autoSave": "onWindowChange",
+    "editor.defaultFormatter": "ms-vscode.anycode",
+    "editor.wordWrap": "on"
 }
